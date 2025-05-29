@@ -1,0 +1,26 @@
+// Fichier SCSS principal
+@use "./scss/mainContainer.scss";
+@use "./scss/calendar.scss";
+@use "./scss/task.scss";
+@use "./scss/mobileSize.scss";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: poppins, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f0f0f0 0%, #e0e7ff 50%, #ffe5d0 100%);
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #ff6417;
+}
