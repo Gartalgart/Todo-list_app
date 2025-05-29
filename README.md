@@ -23,8 +23,7 @@
 - HTML5 / CSS3 / JavaScript
 - SCSS
 - Font Awesome
-- [readline-sync](https://www.npmjs.com/package/readline-sync) (si projet Node.js)
-
+  
 ---
 
 ## 🧪 Installation
