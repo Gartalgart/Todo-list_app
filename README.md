@@ -4,7 +4,7 @@
 
 ## 🚀 Démo
 
-[🔗 Lien vers la démo en ligne (si disponible)](https://gartalgart.github.io/Todo-list_app/)
+[🔗 Lien vers la démo en ligne](https://gartalgart.github.io/Todo-list_app/)
 
 
 ---
